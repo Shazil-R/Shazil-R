@@ -1,6 +1,6 @@
 ![Header_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/e1745680-eb65-4144-a327-4f653d56caed)
 
-# Hey there, I'm Shazil! 👋
+# Hi there, I'm Shazil! 👋
 
 I'm a software developer passionate about using technology to make a positive impact on the world.
 
