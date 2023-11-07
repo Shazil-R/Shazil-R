@@ -1,4 +1,5 @@
-![Header_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/1956a85e-dd0d-4f3a-80fd-85b7d00a6e0f)
+![Header_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/e1745680-eb65-4144-a327-4f653d56caed)
+
 # Hey there, I'm Shazil! 👋
 
 I'm a software developer passionate about using technology to make a positive impact on the world.
@@ -19,4 +20,5 @@ Want to learn more, work on a project, or chat about something interesting? [Let
 ## Fun Fact
 - 😄 Office foosball champion
 
-![Footer_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/c7674905-bf3b-42ec-ab5a-b44764f8ec53)
+![Footer_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/d397b1bc-dc1b-499b-89ac-e8ff10ed9311)
+
