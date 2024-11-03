@@ -12,7 +12,7 @@ I'm a software developer passionate about using technology to make a positive im
 Want to learn more, work on a project, or chat about something interesting? [Let's get in touch!](#lets-get-in-touch)
 
 ## Let's Get in Touch
-- 📫 Email: [srazzaq@uwaterloo.ca](mailto:shazilrazzaq01@gmail.com)
+- 📫 Email: [shazilrazzaq01@gmail.com](mailto:shazilrazzaq01@gmail.com)
 - 💬 LinkedIn: [Shazil R](https://www.linkedin.com/in/shazil-r/)
 - 🌐 Portfolio: [shazil.me](https://shazil.me/)
 
