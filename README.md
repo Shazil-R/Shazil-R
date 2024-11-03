@@ -6,19 +6,18 @@ I'm a software developer passionate about using technology to make a positive im
 
 ## About Me
 - 👩‍💻 Software Developer with industry experience across various stacks
-- 🌍 4th Year Computer Engineering Student @uWaterloo
+- 🌍 Computer Engineering Alum @uWaterloo
 - 🔭 I’m currently working on... (message me to find out!)
 
-**I'm looking for New Grad roles starting Summer 2024!**\
 Want to learn more, work on a project, or chat about something interesting? [Let's get in touch!](#lets-get-in-touch)
 
 ## Let's Get in Touch
-- 📫 Email: [srazzaq@uwaterloo.ca](mailto:srazzaq@uwaterloo.ca)
+- 📫 Email: [srazzaq@uwaterloo.ca](mailto:shazilrazzaq01@gmail.com)
 - 💬 LinkedIn: [Shazil R](https://www.linkedin.com/in/shazil-r/)
-- 🌐 Portfolio: [shazilr.me](https://shazilr.me/)
+- 🌐 Portfolio: [shazilr.me](https://shazil.me/)
 
 ## Fun Fact
-- 😄 Office foosball champion
+- ⚽️ Office foosball champion 😄
 
 ![Footer_Picture](https://github.com/Shazil-R/Shazil-R/assets/42793026/d397b1bc-dc1b-499b-89ac-e8ff10ed9311)
 
