@@ -14,7 +14,7 @@ Want to learn more, work on a project, or chat about something interesting? [Let
 ## Let's Get in Touch
 - 📫 Email: [srazzaq@uwaterloo.ca](mailto:shazilrazzaq01@gmail.com)
 - 💬 LinkedIn: [Shazil R](https://www.linkedin.com/in/shazil-r/)
-- 🌐 Portfolio: [shazilr.me](https://shazil.me/)
+- 🌐 Portfolio: [shazil.me](https://shazil.me/)
 
 ## Fun Fact
 - ⚽️ Office foosball champion 😄
